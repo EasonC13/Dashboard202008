@@ -53,7 +53,7 @@ export class MainComponent implements OnInit {
     console.log("updateing", this.httpHelp)
 
 
-    this.httpClient.get("http://clwcron.upls.ntnu.edu.tw:8989/api/status")
+    this.httpClient.get("./dist/chilinDashBoard/dashboardDemoJson.json")
     .subscribe({
       next: data => {
         this.data = data;
