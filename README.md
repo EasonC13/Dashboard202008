@@ -2,7 +2,7 @@
 
 > This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
-Me and Chris use Angular to write this dashboard for professor's online experiment. 
+Eason and Chris use Angular to write this dashboard for professor's online experiment. 
 So that the professor can track each attendee's progress by a glance, and gain detail information by the list below the page.
 
 web page's demo url: https://dashboard202009.eason.tw/
