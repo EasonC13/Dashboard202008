@@ -8,7 +8,7 @@ So that the professor can track each attendee's progress by a glance, and gain d
 web page's demo url: https://dashboard202009.eason.tw/
 (build form this project's code)
 
-The backend of the experiment was written by us using Python, too. But it have some sensitive information so we only provide this page and the demo-oriented json file for demo.
+The backend of the experiment was written by us using Python, too. But it have some sensitive information so we only provide this page and the [demo-oriented json file](https://dashboard202009.eason.tw/dashboardDemoJson.json) for demo.
 
 
 
@@ -16,4 +16,5 @@ The backend of the experiment was written by us using Python, too. But it have s
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-if you want to build one, please make sure 
+if you want to build one, please make sure add the [demo-json](https://dashboard202009.eason.tw/dashboardDemoJson.json) file into ./dist/chilinDashboard/
+
